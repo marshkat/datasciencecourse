@@ -1,2 +1,2 @@
-# test_repo
-just a test
+# README
+not to be confused with the excellent novel REAMDE
